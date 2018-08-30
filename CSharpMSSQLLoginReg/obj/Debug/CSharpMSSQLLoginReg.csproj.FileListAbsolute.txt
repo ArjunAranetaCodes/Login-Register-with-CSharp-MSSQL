@@ -1,0 +1,8 @@
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpMSSQLLoginReg\CSharpMSSQLLoginReg\bin\Debug\CSharpMSSQLLoginReg.exe.config
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpMSSQLLoginReg\CSharpMSSQLLoginReg\bin\Debug\CSharpMSSQLLoginReg.exe
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpMSSQLLoginReg\CSharpMSSQLLoginReg\bin\Debug\CSharpMSSQLLoginReg.pdb
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpMSSQLLoginReg\CSharpMSSQLLoginReg\obj\Debug\CSharpMSSQLLoginReg.Form1.resources
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpMSSQLLoginReg\CSharpMSSQLLoginReg\obj\Debug\CSharpMSSQLLoginReg.Properties.Resources.resources
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpMSSQLLoginReg\CSharpMSSQLLoginReg\obj\Debug\CSharpMSSQLLoginReg.csproj.GenerateResource.Cache
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpMSSQLLoginReg\CSharpMSSQLLoginReg\obj\Debug\CSharpMSSQLLoginReg.exe
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\CSharpMSSQLLoginReg\CSharpMSSQLLoginReg\obj\Debug\CSharpMSSQLLoginReg.pdb
